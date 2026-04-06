@@ -1,6 +1,7 @@
 # File Organizer Script
 # Sort files by extension
 # Create folders automatically
+
 import os
 import shutil
 
