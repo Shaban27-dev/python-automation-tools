@@ -12,17 +12,17 @@ and productivity tools built for real-world use cases.
 ### File Organizer
 Scans a folder and automatically sorts files into subfolders by type.
 No dependencies — pure Python standard library.
-→ [`File_Organizer/`](./File_Organizer)
+→ [`File_Organizer/`](./File-Organizer)
 
 ### NATO Phonetic Alphabet Converter
 Converts any word or sentence into NATO phonetic codes using a Pandas CSV lookup.
 Handles mixed case, counts unique letters, and formats clean output.
-→ [`NATO_Alphabet_Converter/`](./NATO_Alphabet_Converter)
+→ [`NATO_Alphabet_Converter/`](./NATO-Alphabet-Converter)
 
 ### Pomodoro Timer
 Desktop productivity timer built with Tkinter. Runs automatic work/break cycles,
 tracks sessions with checkmarks, and resets cleanly.
-→ [`Pomodoro_Timer/`](./Pomodoro_Timer)
+→ [`Pomodoro_Timer/`](./Pomodoro-Timer)
 
 ---
 
